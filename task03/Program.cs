@@ -3,15 +3,6 @@
 int a = 7;
 int b = 5;
 
-int max = a;
-int min = b;
-if (b > a) 
-{
-    max = b;
-    min = a;
-}
-Console.Write("max = ");
-Console.WriteLine(max);
-Console.Write("min = ");
-Console.WriteLine(min);
-
+if (a>b) Console.WriteLine("a больше b");
+if (a<b) Console.WriteLine("a меньше b");
+if (a==b) Console.WriteLine("a равно b");
