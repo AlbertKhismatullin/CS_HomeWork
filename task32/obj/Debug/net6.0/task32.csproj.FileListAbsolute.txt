@@ -1,0 +1,15 @@
+C:\Users\alber\Desktop\CS_HomeWork\task32\bin\Debug\net6.0\task32.exe
+C:\Users\alber\Desktop\CS_HomeWork\task32\bin\Debug\net6.0\task32.deps.json
+C:\Users\alber\Desktop\CS_HomeWork\task32\bin\Debug\net6.0\task32.runtimeconfig.json
+C:\Users\alber\Desktop\CS_HomeWork\task32\bin\Debug\net6.0\task32.dll
+C:\Users\alber\Desktop\CS_HomeWork\task32\bin\Debug\net6.0\ref\task32.dll
+C:\Users\alber\Desktop\CS_HomeWork\task32\bin\Debug\net6.0\task32.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.AssemblyInfo.cs
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.dll
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\ref\task32.dll
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task32\obj\Debug\net6.0\task32.genruntimeconfig.cache
