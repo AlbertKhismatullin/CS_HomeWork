@@ -1,0 +1,15 @@
+C:\Users\alber\Desktop\CS_HomeWork\task42\bin\Debug\net6.0\task42.exe
+C:\Users\alber\Desktop\CS_HomeWork\task42\bin\Debug\net6.0\task42.deps.json
+C:\Users\alber\Desktop\CS_HomeWork\task42\bin\Debug\net6.0\task42.runtimeconfig.json
+C:\Users\alber\Desktop\CS_HomeWork\task42\bin\Debug\net6.0\task42.dll
+C:\Users\alber\Desktop\CS_HomeWork\task42\bin\Debug\net6.0\ref\task42.dll
+C:\Users\alber\Desktop\CS_HomeWork\task42\bin\Debug\net6.0\task42.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.AssemblyInfo.cs
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.dll
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\ref\task42.dll
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task42\obj\Debug\net6.0\task42.genruntimeconfig.cache
