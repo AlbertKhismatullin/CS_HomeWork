@@ -1,0 +1,15 @@
+C:\Users\alber\Desktop\CS_HomeWork\task40\bin\Debug\net6.0\task40.exe
+C:\Users\alber\Desktop\CS_HomeWork\task40\bin\Debug\net6.0\task40.deps.json
+C:\Users\alber\Desktop\CS_HomeWork\task40\bin\Debug\net6.0\task40.runtimeconfig.json
+C:\Users\alber\Desktop\CS_HomeWork\task40\bin\Debug\net6.0\task40.dll
+C:\Users\alber\Desktop\CS_HomeWork\task40\bin\Debug\net6.0\ref\task40.dll
+C:\Users\alber\Desktop\CS_HomeWork\task40\bin\Debug\net6.0\task40.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.AssemblyInfo.cs
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.dll
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\ref\task40.dll
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task40\obj\Debug\net6.0\task40.genruntimeconfig.cache
