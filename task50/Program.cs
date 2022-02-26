@@ -13,9 +13,17 @@ for (int i = 0; i < a.GetLength(0); i++)
         for (int j = 0; j < a.GetLength(1); j++)
         {
             a[i,j] = new Random().Next(1,10);
-            if (a[i,j]%2 == 0) a[i,j] = -a[i,j];
-            System.Console.Write($"{a[i,j]} ");
+            System.Console.Write($"{a[i,j], 4} ");
         }
-           
+        System.Console.WriteLine();
+    }
+System.Console.WriteLine();
+for (int i = 0; i < a.GetLength(0); i++)
+    {
+        for (int j = 0; j < a.GetLength(1); j++)
+        {
+            if (a[i,j]%2 == 0) a[i,j] = -a[i,j];
+            System.Console.Write($"{a[i,j], 4} ");
+        }
         System.Console.WriteLine();
     }
