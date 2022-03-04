@@ -1,0 +1,15 @@
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.AssemblyInfo.cs
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task58\bin\Debug\net6.0\task58.exe
+C:\Users\alber\Desktop\CS_HomeWork\task58\bin\Debug\net6.0\task58.deps.json
+C:\Users\alber\Desktop\CS_HomeWork\task58\bin\Debug\net6.0\task58.runtimeconfig.json
+C:\Users\alber\Desktop\CS_HomeWork\task58\bin\Debug\net6.0\task58.dll
+C:\Users\alber\Desktop\CS_HomeWork\task58\bin\Debug\net6.0\ref\task58.dll
+C:\Users\alber\Desktop\CS_HomeWork\task58\bin\Debug\net6.0\task58.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.dll
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\ref\task58.dll
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task58\obj\Debug\net6.0\task58.genruntimeconfig.cache
