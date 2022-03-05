@@ -1,0 +1,15 @@
+C:\Users\alber\Desktop\CS_HomeWork\task70\bin\Debug\net6.0\task70.exe
+C:\Users\alber\Desktop\CS_HomeWork\task70\bin\Debug\net6.0\task70.deps.json
+C:\Users\alber\Desktop\CS_HomeWork\task70\bin\Debug\net6.0\task70.runtimeconfig.json
+C:\Users\alber\Desktop\CS_HomeWork\task70\bin\Debug\net6.0\task70.dll
+C:\Users\alber\Desktop\CS_HomeWork\task70\bin\Debug\net6.0\ref\task70.dll
+C:\Users\alber\Desktop\CS_HomeWork\task70\bin\Debug\net6.0\task70.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.AssemblyInfo.cs
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.dll
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\ref\task70.dll
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task70\obj\Debug\net6.0\task70.genruntimeconfig.cache
