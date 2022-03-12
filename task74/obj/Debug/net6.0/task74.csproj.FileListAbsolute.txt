@@ -1,0 +1,15 @@
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.AssemblyInfoInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.AssemblyInfo.cs
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\CS_HomeWork\task74\bin\Debug\net6.0\task74.exe
+C:\Users\alber\Desktop\CS_HomeWork\task74\bin\Debug\net6.0\task74.deps.json
+C:\Users\alber\Desktop\CS_HomeWork\task74\bin\Debug\net6.0\task74.runtimeconfig.json
+C:\Users\alber\Desktop\CS_HomeWork\task74\bin\Debug\net6.0\task74.dll
+C:\Users\alber\Desktop\CS_HomeWork\task74\bin\Debug\net6.0\ref\task74.dll
+C:\Users\alber\Desktop\CS_HomeWork\task74\bin\Debug\net6.0\task74.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.dll
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\ref\task74.dll
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.pdb
+C:\Users\alber\Desktop\CS_HomeWork\task74\obj\Debug\net6.0\task74.genruntimeconfig.cache
